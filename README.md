@@ -1,5 +1,8 @@
-![MasterHead](https://github.com/Shreyashkawale29/MyPortfolio/blob/main/Full%20Stack%20Web%20Development.gif)
-<h1 align="center">Hi 👋, I'm Shreyash Kawale</h1>
+<p align="left">👋 Hi, I’m Shreyash Kawale — a passionate Full-Stack Developer skilled in Java, Spring Boot, Angular, and MySQL.<br>
+💡 I enjoy building scalable web applications, designing efficient RESTful APIs, and crafting responsive user interfaces with clean, maintainable code.<br>
+🚀 I’ve developed 20+ APIs and 12+ Angular components, improving app performance by 30% through optimized architecture and smart data handling.<br>
+🌱 Currently, I’m exploring Microservices, Cloud deployment, and RxJS to level up my full-stack development expertise.</h3>
+<h1 align="center">Hi 👋, I'm Shreyash Kawale</p>
 <h3 align="center">A passionate full stack java developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
