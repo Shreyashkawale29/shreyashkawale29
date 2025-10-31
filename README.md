@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Projects**
 
-- 📫 How to reach me **kawalesn01@gmail.com**
+- 📫 How to reach me **shreyashkawale07@gmail.com**
 
 - ⚡ Fun fact **I Think I Am Funny**
 
